@@ -24,7 +24,7 @@ yarn dev
 
 ### Packages and Libraries
 
-- [nextjs with typescript](https://github.com/segmentio/create-next-app) - boilerplate
+- [nextjs with typescript](https://github.com/zeit/next.js/tree/canary/examples/with-typescript) - boilerplate
 - [styled components](https://www.styled-components.com/) - Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.
 - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components.
 
